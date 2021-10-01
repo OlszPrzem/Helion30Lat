@@ -1,0 +1,175 @@
+/* 
+	xBe by TEMPLATE STOCK
+	templatestock.co @templatestock
+	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+/*--------------------------------------------------------------
+*/
+
+section#stopka {
+    background-color: black;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 200px;
+    box-shadow: none !important;
+    margin-bottom: 0px !important;
+}
+
+
+section#slider {
+    background-image: url(../img/backgrounds/tlo_marti3.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom: 110px;
+    min-height: 100vh;
+    box-shadow: none !important;
+    margin-bottom: 0px !important;
+    
+}
+
+section#barbara1 {
+    background-image: url(../img/backgrounds/tlo_marti3.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    box-shadow: none !important;
+    margin-bottom: 0px !important;
+}
+
+section#barbara2 {
+    background-image: url(../img/backgrounds/tlo_marti3.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    box-shadow: none !important;
+    margin-bottom: 0px !important;
+}
+
+section#barbara3 {
+    background-image: url(../img/backgrounds/tlo_marti3.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    box-shadow: none !important;
+    margin-bottom: 0px !important;
+}
+
+section#barbara4 {
+    background-image: url(../img/backgrounds/tlo_marti3.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    box-shadow: none !important;
+    margin-bottom: 0px !important;
+}
+
+
+body {
+    overflow-x: hidden;
+    font-family: 'Lato', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+
+}
+
+
+.wrapper {
+    width: 80%;
+    
+}
+
+.stopka{
+    width: 100%;
+    height: 20px;
+}
+
+
+p {
+    font-size: 14px;
+    line-height: 1.75
+}
+
+p.large {
+    font-size: 16px
+}
+
+a,
+a:hover,
+a:focus,
+a:active,
+a.active {
+    outline: 0
+}
+
+a {
+    color: #058BCE;
+}
+
+a:hover,
+a:focus,
+a:active,
+a.active {
+    color: #058BCE;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "lato";
+    text-transform: uppercase;
+    font-weight: 900;
+
+}
+
+
+.section-heading,
+.section-subheading {
+    opacity: 0;
+}
+
+.mutted_img {
+    opacity: 0;
+}
+
+@media (max-width:480px) {
+    .wrapper {
+        width: 90%;
+    }
+}
+
+
+.intro-heading22 {
+    font-family: 'Droid Serif', serif;
+    font-size: 120px;
+    line-height: 45px;
+    margin-bottom: 10px;
+    margin-top: 20%;
+    padding: 2px;
+    background-color: transparent;
+    text-align: center;
+    color: red; 
+    
+}
+
+.intro-heading2 {
+    animation-delay: 0.9s;
+}
+
+section h3.intro-heading22 {
+    margin-top: 120px;
+    color: red;
+    font-size: 45px;
+  }
+
+ 
+.team-wrapper {
+    width: 90%;
+}
